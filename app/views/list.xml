@@ -1,0 +1,8 @@
+<Alloy>
+	<Window id="listWindow" title="Table">
+		<TableView id="samplesList">
+			<TableViewSection id="tableSection">
+			</TableViewSection>
+		</TableView>
+	</Window>
+</Alloy>

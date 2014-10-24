@@ -1,0 +1,1 @@
+ti build -p android -b & adb install -r build/android/bin/webacademie.apk

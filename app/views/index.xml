@@ -1,0 +1,8 @@
+<Alloy>
+	<Window id="generatorWindow" title="Generator">
+		<Label id="generatorLabel" top="100">What do you want to say?</Label>
+		<TextField id="generatorText" top="150" width="200"/>
+		<Button id="generatorButton" top="200">Morse it!</Button>
+		<Button id="samplesButton" top="250">Browse samples</Button>
+	</Window>
+</Alloy>
